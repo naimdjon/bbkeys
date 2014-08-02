@@ -3,7 +3,7 @@ bbkeys
 
 A git repo for bbkeys.
 
-Depends on  `libbt-dev`.
+Depends on  `libbt-dev`. Use `apt-get` or `yum` for installation.
 
 ``` 
 make -f Makefile.cvs all
