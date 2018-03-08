@@ -3,7 +3,16 @@ bbkeys
 
 A git repo for bbkeys.
 
-Depends on `libbt-dev`. Use `apt-get` or `yum` to install `libbt-dev`. 
+
+Depends on: 
+
+- `libbt-dev`
+- `automake`
+- `m4`
+- `libtool`
+- `libxext-dev`
+
+Use `apt-get` or `yum` to install dependencies. 
 
 Building `bbkeys` from the source:
 
